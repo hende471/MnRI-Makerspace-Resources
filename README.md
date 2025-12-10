@@ -8,7 +8,7 @@ The repo contains the following:
 - Instructions for how to safely use each piece of reservable equipment,
 - Instructions for how to reserve a piece of equipment.
 
-Additions to this README should follow [this style]([url](https://www.markdownguide.org/basic-syntax/)).
+Additions to this README should follow [this style](https://www.markdownguide.org/basic-syntax/).
 
 ___
 # Makerspace Layout
