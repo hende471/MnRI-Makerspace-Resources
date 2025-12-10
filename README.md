@@ -58,8 +58,13 @@ ___
 # Slicer Software
 
 **Lulzbot Taz6**: *Cura Lulzbot Edition*
+
+
 **Ultimaker 2 Extended**: *Ultimaker Cura*
+
 **Markforged Mark 2**: *Eiger* (Online)
+
 **Monoprice Maker Select**: *Ultimaker Cura*
+
 **Form Labs Form 2**: *Preform* 
 
