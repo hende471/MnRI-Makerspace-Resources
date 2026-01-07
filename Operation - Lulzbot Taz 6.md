@@ -14,7 +14,7 @@ Using the printer involves several steps. Here is a summary of the steps
 
 
 ## Create a Gcode File
-
+- Get printer profile (link to profile)
 
 ## Schedule Time With The Printer
 
