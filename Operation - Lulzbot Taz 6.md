@@ -14,6 +14,12 @@ Using the printer involves several steps. Here is a summary of the steps
 
 The first step is to export your 3D model to the STL format. STL (Stereolithography) is a standard file type for 3D printing that most CAD software packages use. It is also the most compatible file type for the Slicing software relevant in the next section. If you want to use the machine in the makerspace, make sure to save the STL in a USB drive. 
 
+<p align="center">
+  <img src="./images/3d-Model.png" width="900" alt="Alt text">
+  <br>
+  <em>Make sure to export the part in the STL format.</em>
+</p>
+
 
 ## Create a G-code File
 
