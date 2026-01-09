@@ -77,7 +77,7 @@ Once you have the print settings dialed in, you can export the G-code to an SD c
 
 
 ## Configure Printer
-If you are using the TAZ6, most of the configuration is done on the slicing software. The TAZ6 uses a borosilicate plate as the base on which your part will be printed. Materials like PetG, or high infill PLA, you may notice that the part is stuck to the borosilicate plate. Typically, you would use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid this, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part. 
+If you are using the TAZ6, most of the configuration is done on the slicing software. The TAZ6 uses a borosilicate plate as the base on which your part will be printed. With materials like PetG, or high infill PLA, you may notice that the part is stuck to the borosilicate plate. Typically, you would use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid this, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part. 
 
 
 ## Print Part
