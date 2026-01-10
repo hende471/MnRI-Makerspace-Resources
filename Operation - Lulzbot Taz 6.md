@@ -7,8 +7,8 @@
 - [Create a Finished 3D Model](#create-a-finished-3d-model)
 - [Create a G-code File](#create-a-g-code-file)
   - [Exporting G-code](#exporting-g-code)
-- [Schedule Time With The Printer](#schedule-time-with-the-printer)
 - [Configure Printer](#configure-printer)
+- [Schedule Time With The Printer](#schedule-time-with-the-printer)
 - [Print Part](#print-part)
 - [Clean Up](#clean-up)
 
@@ -80,13 +80,18 @@ Once you have the print settings dialed in, you can export the G-code to an SD c
 
  <br>
 
+## Configure Printer
+
+If you are using the TAZ6, most of the configuration is done in the slicing software. The TAZ6 uses a borosilicate plate as the base on which your part will be printed. For materials like PETG or high infill PLA, you may notice that the part is stuck to the borosilicate plate. Typically, you would use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid this, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part.
+
+ <br>
+
 ## Schedule Time With The Printer
 
 <!-- This section is intentionally left empty for now -->
 
-## Configure Printer
+ <br>
 
-If you are using the TAZ6, most of the configuration is done in the slicing software. The TAZ6 uses a borosilicate plate as the base on which your part will be printed. For materials like PETG or high infill PLA, you may notice that the part is stuck to the borosilicate plate. Typically, you would use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid this, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part.
 
 ## Print Part
 
