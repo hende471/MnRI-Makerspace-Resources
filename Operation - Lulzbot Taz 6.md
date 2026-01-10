@@ -113,6 +113,8 @@ The printer will tell you how long the part is going to take to print. We recomm
   <img src="./images/printing.JPG" width="400" alt="Printer in operation">
 </p>
 
+ <br>
+
 ## Clean Up
 
 Once your print is complete, follow these steps to properly clean up:
