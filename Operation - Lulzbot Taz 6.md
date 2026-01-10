@@ -120,12 +120,8 @@ Once your print is complete, follow these steps to properly clean up:
 
 4. **Clean the Print Bed** - Remove any remaining masking tape, filament residue, or debris from the print bed. Wipe down the borosilicate plate with isopropyl alcohol if needed to ensure it's clean for the next user.
 
-5. **Remove the SD Card** - Take your SD card out of the printer and store it safely.
+5. **Turn Off the Printer** - If no one else is scheduled to use the printer immediately after you, turn it off using the power switch.
 
-6. **Filament Check** - If you're the last user, make sure the filament is properly secured and won't tangle. If the filament spool is nearly empty, notify the makerspace staff.
+6. **Clean Your Work Area** - Dispose of any scrap material, failed prints, or support structures in the appropriate waste bin. Leave the workspace clean for the next user.
 
-7. **Turn Off the Printer** - If no one else is scheduled to use the printer immediately after you, turn it off using the power switch.
-
-8. **Clean Your Work Area** - Dispose of any scrap material, failed prints, or support structures in the appropriate waste bin. Leave the workspace clean for the next user.
-
-9. **Post-Processing** (Optional) - Depending on your needs, you may want to sand, paint, or otherwise finish your part. This should be done away from the printer in a designated work area.
+7. **Post-Processing** (Optional) - Depending on your needs, you may want to sand, paint, or otherwise finish your part. This should be done away from the printer in a designated work area.
