@@ -1,4 +1,4 @@
-# Operating Documentation for the Lulzbot Taz 6
+# Operating Documentation for the Ultimaker 2 Extended
 
 <br>
 
@@ -28,17 +28,17 @@ The first step is to export your 3D model to the STL format. STL (Stereolithogra
   
 ## Create a G-code File
 
-Import your part's STL file into the slicing software. For the TAZ6 and the Ultimaker printer, you need to use the Cura slicing software. If you're using the MNRI computer, in a new terminal type the following command:
+Import your part's STL file into the slicing software. For the Ultimaker and the Ultimaker printer, you need to use the Cura slicing software. If you're using the MNRI computer, in a new terminal type the following command:
 
 ```bash
-./cura_lulzbot.AppImage # For the TAZ6
+./cura_lulzbot.AppImage # For the Ultimaker
 ./cura_ultimaker.AppImage # For the Ultimaker
 ```
 
 <p align="center">
   <img src="./images/Slicer-page.png" alt="CURA slicer interface">
   <br>
-  <em>The CURA slicer application page. Here you will find all the necessary tools to create G-code for the TAZ6 printer.</em>
+  <em>The CURA slicer application page. Here you will find all the necessary tools to create G-code for the Ultimaker printer.</em>
 </p>
 
 <br>
@@ -53,8 +53,6 @@ Import your part's STL file into the slicing software. For the TAZ6 and the Ulti
  <br>
 
 To import your part in Cura, click the folder icon on the left. Once you have imported the part, make sure that the orientation of the part is correct. You can add multiple parts to the print bed as well.
-
-The TAZ6 traditionally uses 2.85 mm filament; however, you can also use the standard 1.75 mm to 1.8 mm filament. In the slicing software, make sure that the Profile is set accordingly (select high detail 1.8 mm if you're using 1.75 mm filament).
 
 <p align="left">
   <img src="./images/printer-settings.png" width="400" alt="Printer settings">
@@ -82,7 +80,7 @@ Once you have the print settings dialed in, you can export the G-code to an SD c
 
 ## Configure Printer
 
-If you are using the TAZ6, most of the configuration is done in the slicing software. The TAZ6 uses a borosilicate plate as the base on which your part will be printed. For materials like PETG or high infill PLA, you may notice that the part is stuck to the borosilicate plate. Typically, you would use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid this, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part.
+If you are using the Ultimaker, most of the configuration is done in the slicing software. The Ultimaker uses a glass plate as the base on which your part will be printed. For materials like PETG or high infill PLA, you may notice that the part is stuck to the plate. Some might have learned to use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid overly strong bed adhesion, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part.
 
  <br>
 
