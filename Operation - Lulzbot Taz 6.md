@@ -90,7 +90,7 @@ If you are using the TAZ6, most of the configuration is done in the slicing soft
 
 To use this equipment, you must reserve time with it; the MnRI Makerspace is accessed by 200+ undergraduate students, graduate students, research staff, and faculty. Time reservation is part of what keeps the space orderly. 
  <br>
-To reserve time with the printer, use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScbIme_WRaoYv4oweY1Eg8Ww8YcjrLJ1fDP2vGtmIavPTJHPw/viewform).
+To reserve time, use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScbIme_WRaoYv4oweY1Eg8Ww8YcjrLJ1fDP2vGtmIavPTJHPw/viewform).
 
  <br>
 
