@@ -95,22 +95,22 @@ To reserve time with the printer, use [this Google form](https://docs.google.com
 
 ## Print Part
 
-To print the part, turn on the printer and insert the SD card into the slot.
+To print the part, turn on the printer and insert the SD card into the slot. Select the print option.
 
 <p align="left">
-  <img src="./images/first.JPG" width="400" alt="SD card slot">
+  <img src="./images/printer1-ultimaker.png" width="400" alt="SD card slot">
 </p>
 
-Now you can select the "Print from SD" option. Select your part and start the print.
+Unlike the Lulzbot, the ultimaker directly takes you to the SD card when you select the 'Print' option. 
 
 <p align="left">
-  <img src="./images/print-from-sd.JPG" width="400" alt="Print from SD menu">
+  <img src="./images/printer2-ultimaker.png" width="400" alt="Print from SD menu">
 </p>
 
 The printer will tell you how long the part is going to take to print. We recommend waiting for at least the first layer to print before walking away. This may take a few minutes as the extruder and the print bed need to come up to temperature.
 
 <p align="left">
-  <img src="./images/printing.JPG" width="400" alt="Printer in operation">
+  <img src="./images/printer3-ultimaker.png" width="400" alt="Printer in operation">
 </p>
 
  <br>
