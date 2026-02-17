@@ -36,7 +36,7 @@ Import your part's STL file into the slicing software. For the Ultimaker and the
 ```
 
 <p align="center">
-  <img src="./images/Slicer-page.png" alt="CURA slicer interface">
+  <img src="./images/slicer1-ultimaker.png" alt="CURA slicer interface">
   <br>
   <em>The CURA slicer application page. Here you will find all the necessary tools to create G-code for the Ultimaker printer.</em>
 </p>
@@ -44,9 +44,9 @@ Import your part's STL file into the slicing software. For the Ultimaker and the
 <br>
 
 > **Interface Overview:**
-> 1. Import your part from files
+> 1. Import your part from files (Not shown, but the icon is in the same place as in the other slicer)
 > 2. Part placement settings
-> 3. Select filament type
+> 3. Select filament type (In the ultimaker slicer, you can adjust this in the materials tab)
 > 4. Print and printer settings
 > 5. Start slicing
 
@@ -55,7 +55,7 @@ Import your part's STL file into the slicing software. For the Ultimaker and the
 To import your part in Cura, click the folder icon on the left. Once you have imported the part, make sure that the orientation of the part is correct. You can add multiple parts to the print bed as well.
 
 <p align="left">
-  <img src="./images/printer-settings.png" width="400" alt="Printer settings">
+  <img src="./images/slicer2-ultimaker.png" width="400" alt="Printer settings">
   <br>
   <em>The printer settings tab contains the different parameters that can be adjusted for the print job.</em>
 </p>
@@ -69,7 +69,7 @@ Lastly, when printing multiple parts, make sure that there is adequate space bet
 Once you have the print settings dialed in, you can export the G-code to an SD card. To print on the 3D printers in the MNRI makerspace, we use SD cards to upload the G-code onto the printer. Simply add your SD card to the host machine (wherever you have your slicer software), select the option to export G-code, and make sure to export it to the SD card. Now you can eject the SD card, which should have the G-code uploaded.
 
 <p align="left">
-  <img src="./images/export.png" width="400" alt="G-code export">
+  <img src="./images/slicer3-ultimaker.png" width="400" alt="G-code export">
   <br>
   <em>Make sure to export to the SD card volume once the G-code is ready.</em>
 </p>
