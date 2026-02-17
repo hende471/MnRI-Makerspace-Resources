@@ -29,8 +29,8 @@ ___
 
 # Prototyping Equipment
 **3D Printers**
-- Lulzbot Taz6 (Out of Order)
-- Ultimaker 2 Extended (Out of Order)
+- Lulzbot Taz6 (Functional - *Reccomended*)
+- Ultimaker 2 Extended (Functional)
 - Markforged Mark 2 (Out of Order)
 - Monoprice Maker Select (Out of Order)
 - Formlabs Form 2 (Out of Order)
