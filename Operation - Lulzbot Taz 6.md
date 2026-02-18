@@ -35,6 +35,8 @@ Import your part's STL file into the slicing software. For the TAZ6 and the Ulti
 ./cura_ultimaker.AppImage # For the Ultimaker
 ```
 
+> **Note:** The following steps can be done on any machine. You will need to install the [CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software.
+
 <p align="center">
   <img src="./images/Slicer-page.png" alt="CURA slicer interface">
   <br>
@@ -75,8 +77,6 @@ Once you have the print settings dialed in, you can export the G-code to an SD c
   <br>
   <em>Make sure to export to the SD card volume once the G-code is ready.</em>
 </p>
-
-> **Note:** The above steps can be done on any machine. You will need to install the [CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software.
 
  <br>
 
