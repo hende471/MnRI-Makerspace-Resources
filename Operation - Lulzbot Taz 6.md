@@ -76,7 +76,7 @@ Once you have the print settings dialed in, you can export the G-code to an SD c
   <em>Make sure to export to the SD card volume once the G-code is ready.</em>
 </p>
 
-> **Note:** The above steps can be done on any machine. You will need to install the [CURA slicer](https://curaslicer.com/) software.
+> **Note:** The above steps can be done on any machine. You will need to install the [CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software.
 
  <br>
 
