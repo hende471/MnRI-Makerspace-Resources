@@ -31,7 +31,7 @@ The first step is to export your 3D model to the STL format. STL (Stereolithogra
 Import your part's STL file into the slicing software. For the Ultimaker and the Ultimaker printer, you need to use the Cura slicing software. If you're using the MNRI computer, in a new terminal type the following command:
 
 ```bash
-./cura_lulzbot.AppImage # For the Ultimaker
+./cura_lulzbot.AppImage # For the Lulzbot
 ./cura_ultimaker.AppImage # For the Ultimaker
 ```
 
