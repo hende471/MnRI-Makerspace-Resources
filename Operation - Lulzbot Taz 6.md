@@ -35,7 +35,7 @@ Import your part's STL file into the slicing software. For the TAZ6 and the Ulti
 ./cura_ultimaker.AppImage # For the Ultimaker
 ```
 
-> **Note:** The following steps can be done on any machine. You will need to install the [CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software. When setting up the machine settings for the Taz 6, use the following settings:
+> **Note:** The following steps can be done on any machine. You will need to install the [Lulzbot edition CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software. When setting up the machine settings for the Taz 6 in the slicer, use the following settings:
 > - Printer: Lulzbot Taz 6
 > - Toolhead: Single Extruder
 > - Start G-code: Replace the start g-code with the contents of [this file](https://github.com/hende471/MnRI-Makerspace-Resources/blob/main/Profiles/LuzbotStartGcode.txt)
