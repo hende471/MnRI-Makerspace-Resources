@@ -28,14 +28,18 @@ The first step is to export your 3D model to the STL format. STL (Stereolithogra
   
 ## Create a G-code File
 
-Import your part's STL file into the slicing software. For the TAZ6 and the Ultimaker printer, you need to use the Cura slicing software. If you're using the MNRI computer, in a new terminal type the following command:
+Import your part's STL file into the slicing software. For the TAZ6 and the Ultimaker printer, you need to use the Cura slicing software. Coming soon: If you're using the MNRI computer, in a new terminal type the following command:
 
 ```bash
 ./cura_lulzbot.AppImage # For the TAZ6
 ./cura_ultimaker.AppImage # For the Ultimaker
 ```
 
-> **Note:** The following steps can be done on any machine. You will need to install the [CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software.
+> **Note:** The following steps can be done on any machine. You will need to install the [CURA slicer](https://lulzbot.com/cura-lulzbot-edition) software. When setting up the machine settings for the Taz 6, use the following settings:
+> - Printer: Lulzbot Taz 6
+> - Toolhead: Single Extruder
+> - Start G-code: Replace the start g-code with the contents of [this file](https://github.com/hende471/MnRI-Makerspace-Resources/blob/main/Profiles/LuzbotStartGcode.txt)
+> - Material Diameter: 1.75mm (MnRI's default; change if using your own filament of a different diameter)
 
 <p align="center">
   <img src="./images/Slicer-page.png" alt="CURA slicer interface">
