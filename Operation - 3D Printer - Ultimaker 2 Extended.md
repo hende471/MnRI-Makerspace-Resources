@@ -78,7 +78,7 @@ Once you have the print settings dialed in, you can export the G-code to an SD c
 
 ## Configure Printer
 
-If you are using the Ultimaker, most of the configuration is done in the slicing software. The Ultimaker uses a glass plate as the base on which your part will be printed. For materials like PETG or high infill PLA, you may notice that the part is stuck to the plate. Some might have learned to use a hammer and a screwdriver to dislodge the part; this may damage the plate. To avoid overly strong bed adhesion, we recommend adding a layer of masking tape to the print bed, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part.
+If you are using the Ultimaker, most of the configuration is done in the slicing software. The Ultimaker uses a glass plate as the base on which your part will be printed. For materials like PETG or high infill PLA, you may notice that the part is stuck to the plate. Some might have learned to use a hammer and a screwdriver to dislodge the part; this may damage the plate. **To avoid overly strong bed adhesion, we recommend adding a layer of masking tape to the print bed**, completely covering the print surface. This way, when you are done with your print, you can simply peel off the tape along with your part.
 
  <br>
 
