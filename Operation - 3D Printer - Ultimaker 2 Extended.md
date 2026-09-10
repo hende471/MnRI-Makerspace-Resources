@@ -28,14 +28,12 @@ The first step is to export your 3D model to the STL format. STL (Stereolithogra
   
 ## Create a G-code File
 
-Import your part's STL file into the slicing software. For the Ultimaker and the Ultimaker printer, you need to use the Cura slicing software. If you're using the MNRI computer, in a new terminal type the following command:
+Import your part's STL file into the slicing software. For the Ultimaker and the Ultimaker printer, you need to use the [Ultimaker Cura slicing software](https://ultimaker.com/software/ultimaker-cura/). 
 
-```bash
-./cura_lulzbot.AppImage # For the Lulzbot
-./cura_ultimaker.AppImage # For the Ultimaker
-```
-
-> **Note:** The following steps can be done on any machine. You will need to install the [CURA slicer](https://curaslicer.com/) software.
+> **Note:** If setting up the Ultimaker Cura slicer on your own machine, follow these steps to ensure quality prints:
+>  - Add the printer as the "Ultimaker 2 Extended with Olsson Block"
+>  - Select the Nozzle diameter to be "0.8mm"
+>  - Select the filament diameter to be "1.75mm"
 
 <p align="center">
   <img src="./images/slicer1-ultimaker.png" alt="CURA slicer interface">
